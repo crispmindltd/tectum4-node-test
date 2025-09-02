@@ -1,0 +1,29 @@
+{
+    "windows-desktop-x64":{
+        "version":"4.1.100",
+        "timestamp":1756726000,
+        "path":"https://raw.githubusercontent.com/crispmindltd/tectum4-node-tests/refs/heads/main/win64/tectumnode.zip",
+        "description":"#v4.1.100 Beta new version:
+1. Update network protocol between validators and archivers
+2. New feature - the creation of your own token in the tectum network
+3. New endpoints for integration with nodes"
+    },
+    "windows-console-x64":{
+        "version":"4.1.100",
+        "timestamp":1756726000,
+        "path":"https://raw.githubusercontent.com/crispmindltd/tectum4-node-tests/refs/heads/main/win64/tectumnode.zip",
+        "description":"#v4.1.100 Beta new version:
+1. Update network protocol between validators and archivers
+2. New feature - the creation of your own token in the tectum network
+3. New endpoints for integration with nodes"
+    },
+    "linux-console-x64":{
+        "version":"4.1.100",
+        "timestamp":1756726000,
+        "path":"https://raw.githubusercontent.com/crispmindltd/tectum4-node-tests/refs/heads/main/win64/tectumnode.zip",
+        "description":"#v4.1.100 Beta new version:
+1. Update network protocol between validators and archivers
+2. New feature - the creation of your own token in the tectum network
+3. New endpoints for integration with nodes"
+    } 
+}
